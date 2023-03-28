@@ -1,0 +1,99 @@
+body {
+    margin:0;
+    padding:0;
+    background: #312D32;
+ }
+ 
+ /* Topnav */
+#topnav {
+    height: 50px;
+    padding: 15px;
+    background: #863690;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.16);
+}
+
+/* logomark-big-star-white */
+#nav-logomark {
+    width: 50.75px;
+    height: 50px;
+    background-image: url("assets/logomark.svg");
+   background-size: contain;
+   background-repeat: no-repeat;
+   float: left;
+}
+
+/* Big Star Collectibles */
+#nav-text {
+    margin:0;
+    padding:0;
+    margin-top: 2px;
+    margin-left:8px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 125%;
+    color: #FFFFFF;    
+}
+
+/* Content */
+#content {
+    text-align: center;
+    padding: 50px;
+    background: #FFFFFF;
+}
+
+/* Offer */
+#offer-image {
+    max-width: 75%;
+}
+
+/* Thank you for joining! */
+#offer-text {
+    margin-top: 40px;
+    margin-left:100px;
+    margin-right:100px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 115%;
+    text-align: center;
+    color: #4E0069;    
+}
+
+/* Claim Button */
+#claim-button {
+    margin-top:30px;
+    background: #F9C658;
+    border: none;
+   color: #191919;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   border-radius: 4px;
+   width: 260px;
+   height: 40px;
+   font-family: 'Ubuntu';
+   font-style: bold;
+   font-weight: 700;
+   font-size: 22px;
+}
+
+/* Footer */
+#footer {
+    height: 78px;
+    background: #312D32;
+}
+
+/* © Big Star Collectibles  */
+#text-footer {
+    margin: 16px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 125%;
+    text-align: center;
+    color: #C8C8C8;
+}

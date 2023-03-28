@@ -30,7 +30,7 @@ body {
 #nav-logomark {
    width: 50.75px;
    height: 50px;
-   background-image: url("logomark.svg");
+   background-image: url("assets/logomark.svg");
    background-size: contain;
    background-repeat: no-repeat;
    float: left;
